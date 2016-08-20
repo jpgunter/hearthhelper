@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HearthHelper</string>
+    <string name="menu_title">HearthHelper Menu</string>
+    <string-array name="classes">
+        <item>Druid</item>
+        <item>Hunter</item>
+        <item>Mage</item>
+        <item>Paladin</item>
+        <item>Priest</item>
+        <item>Rogue</item>
+        <item>Shaman</item>
+        <item>Warlock</item>
+        <item>Warrior</item>
+    </string-array>
+</resources>

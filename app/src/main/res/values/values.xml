@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#0000</color>
+    <style name="MenuTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+</resources>
